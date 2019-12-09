@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+ .nav-item:hover 
+{
+  background-color:white ;
+  text-decoration:underline;
+}
+
+.nav-item
+{
+  color:white !important;
+}
+
+#border 
+{
+  margin: 50px;
+  border-color: red;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+
+.card 
+{
+  margin-top:25px;
+  margin-bottom:25px;
+}
+
+h3 
+{
+  margin-top:10px !important;
+}
